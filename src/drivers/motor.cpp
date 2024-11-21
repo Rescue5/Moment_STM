@@ -46,8 +46,8 @@ namespace {
             }
 
             // Инициализация капризных esc
-            for (int pwm = 750; pwm <= 850; pwm += 1) {
-                pulseWidthUpdate(pwm, false);
+            for (int pwm = 850; pwm >= 750; pwm -= 1) {
+                pulseWidthUpdate(pwm, true);
                 HAL_Delay(10);
             }
 
