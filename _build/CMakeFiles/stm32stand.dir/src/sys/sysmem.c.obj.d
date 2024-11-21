@@ -1,0 +1,21 @@
+CMakeFiles/stm32stand.dir/src/sys/sysmem.c.obj: \
+ /Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/src/sys/sysmem.c \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/errno.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/errno.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/reent.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/newlib.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/cdefs.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/_types.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/machine/_types.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/lock.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /usr/local/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h

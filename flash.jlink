@@ -1,0 +1,7 @@
+Speed auto
+Device STM32F407VG
+SelectInterface swd
+LoadFile _build/stm32stand.elf 0x08000000
+Reset
+Go
+Quit

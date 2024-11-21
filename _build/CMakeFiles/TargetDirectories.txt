@@ -1,0 +1,7 @@
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/CMakeFiles/CMSIS_LD_F407VG.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/CMakeFiles/stm32stand.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/CMakeFiles/stm32stand_always_display_size.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/CMakeFiles/rebuild_cache.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/src/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/_build/src/CMakeFiles/rebuild_cache.dir

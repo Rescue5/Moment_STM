@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735 -B /Users/macbook/Documents/работа/STM/1645de931ef08a0f5f066d94b725e7a7b9e74735/cmake-build-debug
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:154 (message):
+  Could not find toolchain file: stm32_gcc.cmake
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (project)
+
+
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_ASM_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
